@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anees.ahmad_4) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.anees) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anees_ahmad1) 
 [![Google Developers](https://img.shields.io/badge/Google%20Developers-%23000000.svg?logo=google&logoColor=blue)](https://developers.google.com/profile/u/anees-ahmad)
 <a href="https://developers.google.com/profile/u/anees-ahmad"><img src="https://www.gstatic.com/devrel-devsite/prod/vd59826aff4c44c40ae6b66bb6749cdc41cdaad671ce8aa5208d5acf15cc7ec42/developers/images/lockup-new.svg" width="100" alt="Google Developers"></a>
