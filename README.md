@@ -1,9 +1,13 @@
+<h1 align="center">Hi 👋, I'm Anees Ahmad</h1>  
+<h3 align="center">A passionate Mobile App developer 🚀</h3>  
 
-<h1 align="center">Hi 👋, I'm Anees Ahmad</h1>
-<h3 align="center">A passionate Mobile App developer.</h3>
+# 💫 About Me:  
+🔭 I’m currently building Unify – because the world needs unity, and I need an MS degree 🌏📚.<br>  
+👯 I’d love to collaborate on apps that blend AI and a dash of humor 🤖😂.<br>  
+🤝 I’m open to mobile app projects (and scholarship offers – wink wink 😉🎓).<br>  
+🌱 Currently learning Machine Learning to teach apps how to think smarter than me 🧠🤯.<br>  
+⚡ Fun fact: If I had a dollar for every line of code I wrote, I’d still need a scholarship 💸💻.  
 
-# 💫 About Me:
-🔭 I’m currently working on Unify.<br>👯 I’m looking to collaborate on Mobile Apps with AI.<br>🤝 I’m looking for help with mobile app.<br>🌱 I’m currently learning ML.<br>⚡ Fun fact: I don't know. Let me ask GPT.
 
 
 ## 🌐 Socials:
