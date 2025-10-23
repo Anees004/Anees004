@@ -3,8 +3,8 @@
 
 # 💫 About Me:  
 🔭 I’m currently building Unify – because the world needs unity, and I need an MS degree 🌏📚.<br>  
-👯 I’d love to collaborate on apps that blend AI and a dash of humor 🤖😂.<br>  
-🤝 I’m open to mobile app projects (and scholarship offers – wink wink 😉🎓).<br>  
+👯 I’d love to collaborate on apps that blend AI 🤖.<br>  
+🤝 I’m open to mobile app projects (and scholarship offers 😉🎓).<br>  
 🌱 Currently learning Machine Learning to teach apps how to think smarter than me 🧠🤯.<br>  
 ⚡ Fun fact: If I had a dollar for every line of code I wrote, I’d still need a scholarship 💸💻.  
 
