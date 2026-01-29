@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Mobile App developer 🚀</h3>  
 
 # 💫 About Me:  
-🔭 I’m currently building Unify – because the world needs unity, and I need an MS degree 🌏📚.<br>  
+🔭 I’m currently Engineering apps for the world. Specially Health AI 🌏📚.<br>  
 👯 I’d love to collaborate on apps that blend AI 🤖.<br>  
-🤝 I’m open to mobile app projects (and scholarship offers 😉🎓).<br>  
+🤝 I’m open to mobile app projects.<br>  
 🌱 Currently learning Machine Learning to teach apps how to think smarter than me 🧠🤯.<br>  
-⚡ Fun fact: If I had a dollar for every line of code I wrote, I’d still need a scholarship 💸💻.  
+⚡ Fun fact: I only thing that make me work is Idea that can add value in humanity.  
 
 
 
